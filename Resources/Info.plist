@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>local.jarvis.app</string>
+	<key>CFBundleName</key>
+	<string>Jarvis</string>
+	<key>CFBundleDisplayName</key>
+	<string>Jarvis</string>
+	<key>CFBundleExecutable</key>
+	<string>JarvisApp</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Jarvis, baktığın terminal sekmesinde soru açıkken araya girmemek için Terminal'e hangi sekmenin önde olduğunu sorar.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Jarvis sorulara verdiğin sesli cevabı dinlemek için mikrofonu kullanır.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Jarvis sesli cevabını cihaz içinde yazıya çevirir; ses bilgisayardan çıkmaz.</string>
+</dict>
+</plist>
